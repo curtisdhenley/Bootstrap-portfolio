@@ -4508,6 +4508,13 @@ textarea.form-control-lg {
   color: #fff;
 }
 
+#hero-bg-img {
+  background-image: url(/assets/images/intro-bg-compressed.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .card {
   position: relative;
   display: flex;
